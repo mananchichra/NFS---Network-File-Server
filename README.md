@@ -39,8 +39,6 @@
 
 - The data that would be provided to be written or appended onto a file will always be less than the size of the data packet that is being sent.
 
-([back to top](https://github.com/Sanchit27-jalan/Network-File-System#readme-top))
-
 ## **Introduction**
 
 ### **Naming Server**
